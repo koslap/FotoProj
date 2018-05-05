@@ -1,0 +1,4 @@
+1. Dzia³anie w tle
+2. Plik konfiguracyjny (sheduler, dyski, foldery, typy plików)
+3. Historia plików
+4. Logi z ostatni¹ dat¹ (data ile plików itp..)
